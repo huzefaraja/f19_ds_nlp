@@ -1,0 +1,30 @@
+
+
+April 7, 2017  —
+Objective
+We determined whether the Defense Information Systems Agency (DISA) complied with Federal and DoD mandatory processes for software life cycle management of the Defense Collaboration Services (DCS).1 Specifically, we addressed Defense Hotline allegations by determining whether DISA was effectively following Federal and DoD policies and procedures for defining software development requirements, using open source software, performing software testing, and ensuring software security.
+Background
+The Defense Hotline received allegations stating that DISA failed to comply with Federal and DoD processes for software management. The allegations focused on the DCS and outlined concerns of potential software security vulnerabilities. The allegations included concerns that DISA officials were not following Federal and DoD policy for defining software development requirements, using open source software, performing software testing, and ensuring software security.
+Finding
+We did not substantiate the Defense Hotline allegations related to inadequate software development requirements, lack of adherence to DoD Chief Information Officer direction for open source software use, and inadequate software testing and security. DISA officials complied with Federal and DoD guidance for management of the DCS. Specifically, DISA officials:
+
+defined software development requirements based on technical needs;
+
+
+performed code reviews for open source software and completed other actions in accordance with DoD Chief Information Officer best practices; and
+
+
+established software management processes, performed operational software testing, and ensured software security.
+
+Although we did not substantiate the Defense Hotline allegations, we determined that the authorizing official granted DISA a 1-year authorization to operate (ATO) instead of a full 3-year ATO in May 2016.2 The authorizing official grants the ATO based on the level of risk to organizational operations. If overall risk is determined to be acceptable, and there are no noncompliant controls with a high or very high level of risk,3 a 3 -year ATO can be granted. If overall risk is determined to be acceptable due to mission criticality, but there are noncompliant controls with a high or very high level of risk, a 1-year ATO with conditions can be granted by the authorizing official with permission of the responsible Component Chief Information Officer. After the 1-year period, if noncompliant controls with a high or very high level of risk still exist, the authorizing official may again grant a 1-year ATO with conditions only if the Component Chief Information Officer grants permission. If the risk for the high or very high noncompliant controls is mitigated to an acceptable risk level, a full 3-year ATO can be granted.
+DISA needs to mitigate the level of risk for high and very high noncompliant controls and obtain a 3-year ATO for the DCS. Mitigating the level of risk for these noncompliant controls will improve security of the DCS and further decrease the risk of unauthorized access.
+Recommendation
+We recommend that the Chief Information Officer, DISA, mitigate the level of risk for high and very high noncompliant controls identified in the May 2016 ATO to be granted a 3-year ATO for the DCS.
+Management Actions Taken
+We provided a discussion draft with the finding and recommendation of this report to DISA on February 27, 2017. DISA agreed and had no substantive comments on the discussion draft. Therefore, we did not require a written response, and are publishing this report in final form.
+During the audit, we discussed the recommendation with the DCS program manager. The DCS program manager provided a status of actions taken to mitigate the level of risk for noncompliant controls identified in the May 2016 ATO. The DCS program manager stated that the DCS program management office information assurance team and the information systems security officer mitigated the level of risk for noncompliant controls and submitted supporting documentation to the DISA Certification and Assessments Division to support the granting of a 3-year ATO by May 8, 2017.
+We consider the DCS program manager’s response to have addressed all specifics of the recommendation; therefore, the recommendation is resolved but remains open. We will close the recommendation once DISA provides us with a copy of the 2017 ATO for the DCS indicating that the level of risk for high and very high noncompliant controls were mitigated and the authorizing official granted a 3-year ATO.
+
+1 The DCS is a communication platform for the armed services which allows for worldwide collaboration on the DoD’s nonclassified and secret networks by offering web conference and chat capabilities.
+2 The authorizing official is responsible for authorizing the system’s operation based on achieving and maintaining an acceptable risk posture. The authorizing official for the DCS is the DISA Chief of Cybersecurity.
+3 During the ATO process, the DISA Certification and Assessments Division reviews the system’s assurance controls to determine whether the controls are compliant with the risk management framework, which is DoD’s integrated enterprise-wide structure for cybersecurity risk management.
